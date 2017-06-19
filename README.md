@@ -45,12 +45,16 @@ admin@mac ~/Projekte $ git init supersoftware
 Das Repository wird lokal gelöscht, indem das Verzeichnis gelöscht wird.
 Um das Repository auf GitHub zu löschen, muss man es direkt auf GitHub löschen.
 
-### Grundlagen
+### Grundlagen von Git
 Der grundlegende Ablauf für die Verwendung von Git sieht wie folgt aus:
 
-1. Letzte Änderungen vom Git-Server (GitHub) kopieren
+1. Letzte Änderungen vom Git-Server (GitHub) kopieren (git pull)
 2. Anpassungen an den Dateien vornehmen
 3. Programm / Script testen, etc.
-4. Dateien für Commit hinzufügen
-5. "Committen"
-6. Änderungen auf Git-Server (GitHub) kopieren
+4. Dateien für Commit hinzufügen (git add)
+5. "Committen" (git commit)
+6. Änderungen auf Git-Server (GitHub) kopieren (git push)
+
+### Dokumentieren auf GitHub
+Für die Dokumentation von Projekten verwendet GitHub die "Markdown"-Syntax.
+[Hier](http://texwelt.de/wissen/markdown_help/) gibt's eine gekürzte Übersicht über Markdown.
