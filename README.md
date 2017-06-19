@@ -82,5 +82,12 @@ Hier noch ein paar Links zu weiteren Guides, Tutorials, Referenzen, etc.:
 * [GitHub Guides](https://guides.github.com)
 * [Interaktives Tutorial zu Git](https://try.github.io/levels/1/challenges/1)
 * [Übersicht über die wichtigsten Befehle](https://rogerdudler.github.io/git-guide/index.de.html)
-* [Git-Tower (Alternative zu GitHub-App](https://www.git-tower.com/mac/)
+* [Git-Tower (Alternative zu GitHub-App)](https://www.git-tower.com/mac/)
 * [Übersicht mit Links zu Git](https://stefanimhoff.de/2009/einstieg-in-git-als-versionskontrollsystem/)
+
+## Text-Editoren mit eingebauter Git-Unterstützung
+
+* [TextMate](http://macromates.com)
+* [Atom](https://atom.io)
+* [Microsoft Visual Studio Code](https://code.visualstudio.com)
+* [Adobe Brackets](http://brackets.io)
