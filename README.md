@@ -84,6 +84,7 @@ Hier noch ein paar Links zu weiteren Guides, Tutorials, Referenzen, etc.:
 * [Übersicht über die wichtigsten Befehle](https://rogerdudler.github.io/git-guide/index.de.html)
 * [Git-Tower (Alternative zu GitHub-App)](https://www.git-tower.com/mac/)
 * [Übersicht mit Links zu Git](https://stefanimhoff.de/2009/einstieg-in-git-als-versionskontrollsystem/)
+* [Detailliertes GitHub-Cheatsheet](https://github.com/tiimgreen/github-cheat-sheet)
 
 ## Text-Editoren mit eingebauter Git-Unterstützung
 
@@ -91,3 +92,14 @@ Hier noch ein paar Links zu weiteren Guides, Tutorials, Referenzen, etc.:
 * [Atom](https://atom.io)
 * [Microsoft Visual Studio Code](https://code.visualstudio.com)
 * [Adobe Brackets](http://brackets.io)
+
+## Interessante Links auf GitHub für CLI-Programme, Shell-Scripting, etc.
+
+* [Awesome Shell](https://github.com/alebcay/awesome-shell)
+* [Python MacAdmin Tools](https://github.com/timsutton/python-macadmin-tools)
+* [Scripts von Rich Trouton aka derflounder](https://github.com/rtrouton/rtrouton_scripts/tree/master/rtrouton_scripts)
+* [Awesome command line apps](https://github.com/herrbischoff/awesome-command-line-apps)
+* [Awesome OS X command line](https://github.com/herrbischoff/awesome-osx-command-line)
+* [Sammlung erweiterbarer Script-Grundlagen](https://github.com/jmcantrell/bashful)
+* [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin)
+* [Awesome GitHub (noch mehr Infos zu GitHub)](https://github.com/phillipadsmith/awesome-github)
