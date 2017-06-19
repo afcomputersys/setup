@@ -67,6 +67,7 @@ Der ganze Ablauf kann für vereinfacht mit der GitHub-App durchgearbeitet werden
 
 #### Branches
 Bei grösseren Projekten kann man sogenannte Branches anlegen, was einem Zweig der "Hauptentwicklung" entspricht. Möchte man beispielsweise einzelne Features hinzufügen oder einzelne Fehler beheben, dann kann dafür ein Branch erzeugt werden, in dem es nur um das jeweilige sekundäre Ziel geht. Wenn der Fehler behoben oder das Feature im Branch hinzugefügt wurde, kann dieser wieder mit dem "Master" zusammengeführt werden.
+Um beispielsweise einen Bugfix-Branch mit dem Master zusammenzuführen, muss ein Pull Request erstellt werden.
 
 ### Dokumentieren auf GitHub
 Für die Dokumentation von Projekten verwendet GitHub die "Markdown"-Syntax.
@@ -74,3 +75,12 @@ Für die Dokumentation von Projekten verwendet GitHub die "Markdown"-Syntax.
 
 ## Zusätzliche Funktionen von GitHub
 GitHub bietet zusätzlich die Möglichkeit "Issues" zu erstellen, in denen Anwender oder die Entwickler des Programms Pendenzen oder Probleme notieren und verfolgen können.
+
+## Weiterführende Infos
+Hier noch ein paar Links zu weiteren Guides, Tutorials, Referenzen, etc.:
+
+* [GitHub Guides](https://guides.github.com)
+* [Interaktives Tutorial zu Git](https://try.github.io/levels/1/challenges/1)
+* [Übersicht über die wichtigsten Befehle](https://rogerdudler.github.io/git-guide/index.de.html)
+* [Git-Tower (Alternative zu GitHub-App](https://www.git-tower.com/mac/)
+* [Übersicht mit Links zu Git](https://stefanimhoff.de/2009/einstieg-in-git-als-versionskontrollsystem/)
