@@ -57,7 +57,7 @@ Der grundlegende Ablauf für die Verwendung von Git sieht wie folgt aus:
 
 Der ganze Ablauf kann für vereinfacht mit der GitHub-App durchgearbeitet werden.
 
-1. "Fetch Origin" in der GitHub-App klicken, um neuste Änderungen zu erhalten
+1. "Fetch Origin" in der GitHub-App klicken, um neuste Änderungen zu erhalten. Wenn es Neuigkeiten gibt, erneut mit "Pull Origin" bestätigen, um die Änderungen zu übernehmen.
 2. Anpassungen an Scripts, Dateien, etc. vornehmen
 3. Scripts testen
 4. Die GitHub-App fügt geänderte Dateien automatisch hinzu
