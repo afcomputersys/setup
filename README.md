@@ -78,6 +78,7 @@ GitHub bietet zusätzlich die Möglichkeit "Issues" zu erstellen, in denen Anwen
 
 ## Weiterführende Infos
 Hier noch ein paar Links zu weiteren Guides, Tutorials, Referenzen, etc.:
+r
 
 * [GitHub Guides](https://guides.github.com)
 * [Interaktives Tutorial zu Git](https://try.github.io/levels/1/challenges/1)
@@ -88,6 +89,7 @@ Hier noch ein paar Links zu weiteren Guides, Tutorials, Referenzen, etc.:
 
 ## Text-Editoren mit eingebauter Git-Unterstützung
 
+* [BBEdit](http://www.barebones.com/products/bbedit/)
 * [TextMate](http://macromates.com)
 * [Atom](https://atom.io)
 * [Microsoft Visual Studio Code](https://code.visualstudio.com)
